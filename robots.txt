@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://dylogedyloge.github.io/sitemap.xml
